@@ -1,4 +1,4 @@
-package edu.handong.analysis;
+package edu.handong.analysis.datamodel;
 
 public class Student {
 	private String name="";
